@@ -1,0 +1,350 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Classic Chocolate Chip Cookies",
+      "description": "Easy homemade chocolate chip cookies that are soft in the middle and crispy on the edges",
+      "prepTime": "15 mins",
+      "cookTime": "10 mins",
+      "servings": 24,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "amount": "2.25 cups"
+        },
+        {
+          "name": "baking soda",
+          "amount": "1 tsp"
+        },
+        {
+          "name": "salt",
+          "amount": "1 tsp"
+        },
+        {
+          "name": "butter",
+          "amount": "1 cup",
+          "note": "softened"
+        },
+        {
+          "name": "brown sugar",
+          "amount": "0.75 cup"
+        },
+        {
+          "name": "white sugar",
+          "amount": "0.75 cup"
+        },
+        {
+          "name": "vanilla extract",
+          "amount": "1 tsp"
+        },
+        {
+          "name": "eggs",
+          "amount": "2"
+        },
+        {
+          "name": "chocolate chips",
+          "amount": "2 cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 375°F (190°C)."
+        },
+        {
+          "step": 2,
+          "text": "Mix flour, baking soda and salt in small bowl."
+        },
+        {
+          "step": 3,
+          "text": "Beat butter and sugars until creamy. Add vanilla and eggs."
+        },
+        {
+          "step": 4,
+          "text": "Gradually beat in flour mixture. Stir in chocolate chips."
+        },
+        {
+          "step": 5,
+          "text": "Drop by rounded tablespoon onto ungreased baking sheets."
+        },
+        {
+          "step": 6,
+          "text": "Bake 9-11 minutes until golden brown."
+        }
+      ],
+      "tags": [
+        "dessert",
+        "cookies",
+        "easy"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Simple Vanilla Ice Cream",
+      "description": "Creamy homemade vanilla ice cream with just 4 ingredients",
+      "prepTime": "10 mins",
+      "cookTime": "20 mins",
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "heavy cream",
+          "amount": "2 cups"
+        },
+        {
+          "name": "whole milk",
+          "amount": "1 cup"
+        },
+        {
+          "name": "sugar",
+          "amount": "0.75 cup"
+        },
+        {
+          "name": "vanilla extract",
+          "amount": "1 tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix milk and sugar until sugar dissolves."
+        },
+        {
+          "step": 2,
+          "text": "Stir in heavy cream and vanilla."
+        },
+        {
+          "step": 3,
+          "text": "Pour into ice cream maker and churn 20 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Freeze 2 hours before serving."
+        }
+      ],
+      "tags": [
+        "dessert",
+        "ice cream",
+        "summer"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Glazed Donuts",
+      "description": "Simple baked donuts with sweet glaze",
+      "prepTime": "15 mins",
+      "cookTime": "10 mins",
+      "servings": 12,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "amount": "2 cups"
+        },
+        {
+          "name": "sugar",
+          "amount": "0.5 cup"
+        },
+        {
+          "name": "baking powder",
+          "amount": "2 tsp"
+        },
+        {
+          "name": "salt",
+          "amount": "0.5 tsp"
+        },
+        {
+          "name": "milk",
+          "amount": "0.75 cup"
+        },
+        {
+          "name": "egg",
+          "amount": "1"
+        },
+        {
+          "name": "butter",
+          "amount": "2 tbsp",
+          "note": "melted"
+        },
+        {
+          "name": "powdered sugar",
+          "amount": "1 cup",
+          "note": "for glaze"
+        },
+        {
+          "name": "milk",
+          "amount": "2 tbsp",
+          "note": "for glaze"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350°F (175°C). Grease donut pan."
+        },
+        {
+          "step": 2,
+          "text": "Mix dry ingredients in large bowl."
+        },
+        {
+          "step": 3,
+          "text": "Whisk wet ingredients in another bowl."
+        },
+        {
+          "step": 4,
+          "text": "Combine wet and dry ingredients until just mixed."
+        },
+        {
+          "step": 5,
+          "text": "Pipe batter into donut pan. Bake 8-10 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Mix powdered sugar and milk for glaze. Dip cooled donuts."
+        }
+      ],
+      "tags": [
+        "dessert",
+        "donuts",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Basic Vanilla Cake",
+      "description": "Simple fluffy vanilla cake perfect for any occasion",
+      "prepTime": "15 mins",
+      "cookTime": "30 mins",
+      "servings": 12,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "amount": "2.5 cups"
+        },
+        {
+          "name": "sugar",
+          "amount": "1.5 cups"
+        },
+        {
+          "name": "baking powder",
+          "amount": "1 tbsp"
+        },
+        {
+          "name": "salt",
+          "amount": "1 tsp"
+        },
+        {
+          "name": "milk",
+          "amount": "1 cup"
+        },
+        {
+          "name": "vegetable oil",
+          "amount": "0.5 cup"
+        },
+        {
+          "name": "eggs",
+          "amount": "2"
+        },
+        {
+          "name": "vanilla extract",
+          "amount": "1 tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350°F (175°C). Grease cake pan."
+        },
+        {
+          "step": 2,
+          "text": "Whisk dry ingredients together."
+        },
+        {
+          "step": 3,
+          "text": "Beat wet ingredients in separate bowl."
+        },
+        {
+          "step": 4,
+          "text": "Combine wet and dry ingredients until smooth."
+        },
+        {
+          "step": 5,
+          "text": "Pour into pan. Bake 30-35 minutes until golden."
+        }
+      ],
+      "tags": [
+        "dessert",
+        "cake",
+        "vanilla"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Easy Chocolate Pudding",
+      "description": "Creamy homemade chocolate pudding ready in minutes",
+      "prepTime": "5 mins",
+      "cookTime": "10 mins",
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "sugar",
+          "amount": "0.5 cup"
+        },
+        {
+          "name": "cocoa powder",
+          "amount": "0.25 cup"
+        },
+        {
+          "name": "cornstarch",
+          "amount": "3 tbsp"
+        },
+        {
+          "name": "salt",
+          "amount": "0.25 tsp"
+        },
+        {
+          "name": "milk",
+          "amount": "2 cups"
+        },
+        {
+          "name": "butter",
+          "amount": "1 tbsp"
+        },
+        {
+          "name": "vanilla extract",
+          "amount": "1 tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Whisk dry ingredients in saucepan."
+        },
+        {
+          "step": 2,
+          "text": "Gradually whisk in milk until smooth."
+        },
+        {
+          "step": 3,
+          "text": "Cook over medium heat, stirring constantly until thickened."
+        },
+        {
+          "step": 4,
+          "text": "Remove from heat. Stir in butter and vanilla."
+        },
+        {
+          "step": 5,
+          "text": "Pour into bowls. Chill 1 hour before serving."
+        }
+      ],
+      "tags": [
+        "dessert",
+        "pudding",
+        "chocolate"
+      ]
+    }
+  ]
+}
