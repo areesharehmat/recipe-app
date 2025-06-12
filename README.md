@@ -2,7 +2,7 @@
 
 A full-stack recipe application that allows users to add, browse, view, and delete their favorite recipes. Built with a modern React frontend using Vite for a blazing-fast development experience and a robust Express.js backend.
 
-## ✨ Features
+## Features
 
 * **Browse Recipes:** Explore a collection of delicious recipes.
 * **Add New Recipes:** Easily submit your own recipes with details like title, ingredients, and instructions.
@@ -10,7 +10,7 @@ A full-stack recipe application that allows users to add, browse, view, and dele
 * **Delete Recipes:** Remove recipes you no longer need.
 * **Responsive Design:** Enjoy the app on various screen sizes.
 
-## 🚀 Technologies Used
+## Technologies Used
 
 ### Frontend (React with Vite)
 
@@ -25,7 +25,7 @@ A full-stack recipe application that allows users to add, browse, view, and dele
 * **Nodemon:** A utility that monitors for any changes in your source and automatically restarts your server. Perfect for development!
 * **Concurrently:** A utility to run multiple commands concurrently (e.g., your frontend and backend servers) in a single terminal window.
 
-## 🛠️ Setup and Installation
+## Setup and Installation
 
 Follow these steps to get the project up and running on your local machine.
 
